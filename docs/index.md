@@ -1,40 +1,15 @@
-## Welcome to GitHub Pages
+### Welcome to my page! 
 
-You can use the [editor on GitHub](https://github.com/tengtedliu/tengtedliu.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Data science researcher with 6 years of experience and expertise in geospatial, financial, household, and quantification of textual data. I am passionate about using data insights to help understand and address pressing economic issues such as climate change. An integrator with technical depth, I have the ability to communicate and collaborate across multiple disciplines, and to inform a diverse set of stakeholders in their decision-making. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# [Project 1: Climate Change and Finance](https://github.com/tengtedliu/us_banking_data)
+## [Project 1: Climate Change and Finance](https://github.com/tengtedliu/us_banking_data)
 * Created a noval dataset of bank lending to U.S. Farms
-![](https://github.com/tengtedliu/tengtedliu.github.io/blob/main/images/ers.png)
 
-## Header 2
-### Header 3
+![](https://github.com/tengtedliu/tengtedliu.github.io/blob/main/images/ers.png "ERS")
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tengtedliu/tengtedliu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
