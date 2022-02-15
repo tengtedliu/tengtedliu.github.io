@@ -8,7 +8,7 @@ Data science researcher with 6 years of experience and expertise in geospatial, 
 ## [Project 1: Climate Change and Finance](https://github.com/tengtedliu/us_banking_data)
 * Created a noval dataset of bank lending to U.S. Farms
 
-![](https://github.com/tengtedliu/tengtedliu.github.io/blob/main/images/ers.png "ERS")
+![](/images/ers.png "ERS")
 
 
 
