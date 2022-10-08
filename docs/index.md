@@ -2,7 +2,7 @@
 
 ## About Me
 
-Learn more about my work at my [personal website](https://tengtedliu.com/)
+Learn more about my work at my personal website [tengtedliu.com](https://tengtedliu.com/)
 
 Data scientist and economist with 6 years of statistical analysis experience and expertise in geospatial, financial, and household data. I am passionate about using data insights to help understand and address pressing economic issues such as climate change. An integrator with technical depth, I have the ability to communicate and collaborate across multiple disciplines, and to inform a diverse set of stakeholders in their decision-making.
 
