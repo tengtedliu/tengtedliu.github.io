@@ -1,8 +1,10 @@
-### Welcome to my page! 
+### Welcome to my GitHub page! 
 
 ## About Me
 
-Economist with 6 years of statistical analysis experience and expertise in geospatial, financial, household, and quantification of textual data. I am passionate about using data insights to help understand and address pressing economic issues such as climate change. An integrator with technical depth, I have the ability to communicate and collaborate across multiple disciplines, and to inform a diverse set of stakeholders in their decision-making.
+Learn more about my work at https://tengtedliu.com/
+
+Data scientist and economist with 6 years of statistical analysis experience and expertise in geospatial, financial, and household data. I am passionate about using data insights to help understand and address pressing economic issues such as climate change. An integrator with technical depth, I have the ability to communicate and collaborate across multiple disciplines, and to inform a diverse set of stakeholders in their decision-making.
 
 ## [Project 1: Climate Change and Agricultural Lending](https://github.com/tengtedliu/climate)
 * Agriculture is very vulnerable to the impact of climate change. While many have focused on agricultural yields, few examine the role of financial institutions in responding to such impact. In this project, I have created a novel dataset that helps understand how climate change affects lending to U.S. farms.
